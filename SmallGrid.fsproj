@@ -83,6 +83,7 @@
     <Content Include="Properties\OutOfBrowserSettings.xml" />
     <Compile Include="SmallGrid.fs" />
     <Compile Include="AbsoluteGrid.fs" />
+    <Compile Include="AutoGrid.fs" />
     <Compile Include="App.fs" />
   </ItemGroup>
   <ItemGroup>
