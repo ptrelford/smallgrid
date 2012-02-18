@@ -79,10 +79,11 @@
     </VisualStudio>
   </ProjectExtensions>
   <ItemGroup>
-    <Compile Include="SmallGrid.fs" />
-    <Compile Include="App.fs" />
     <Content Include="Properties\AppManifest.xml" />
     <Content Include="Properties\OutOfBrowserSettings.xml" />
+    <Compile Include="SmallGrid.fs" />
+    <Compile Include="AbsoluteGrid.fs" />
+    <Compile Include="App.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
